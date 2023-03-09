@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morax8
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,java,sql
+- 🌱 I’m currently learning HTML, JAVASCRIPT, JAVA, SQL, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
