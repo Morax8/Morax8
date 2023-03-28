@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Morax8
+- 👋 Hi, I’m Zian
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, JAVASCRIPT, JAVA, SQL, PHP
 - 💞️ I’m looking to collaborate on ...
