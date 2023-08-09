@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zian
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, JAVASCRIPT, JAVA, SQL, PHP
+- 🌱 I’m currently learning PHP Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
