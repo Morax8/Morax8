@@ -5,9 +5,9 @@
 🧠 Always curious about tech, backend systems, and building useful stuff
 
 ## 🔧 Tech Stack
-- 💻 PHP, Laravel, JavaScript, C(Learning)
+- 💻 PHP, Laravel, JavaScript, C (Learning)
 - 🌐 HTML, CSS, React (learning), Tailwind
-- 🛢️ MySQL, PostgreSQL
+- 🛢️ MySQL
 - ⚙️ Git, GitHub, VS Code, IntelliJ IDEA
 
 ## 🚀 Current Involvements
