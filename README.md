@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ZIan!
 
 🎓 I'm an Informatics student at Universitas Multimedia Nusantara (UMN)  
-💻 Passionate about web development — mainly working with **PHP Laravel**, **JavaScript**, and currently learning **React**  
+💻 Passionate about web development, mainly working with **PHP Laravel**, **JavaScript**, and currently learning **React**  
 🧠 Always curious about tech, backend systems, and building useful stuff
 
 ## 🔧 Tech Stack
