@@ -21,6 +21,3 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/aditya-zianur/
 
 ---
-
-Ganti `yourusername`, `yourdomain.com`, dan yang lain sesuai profil lo.  
-Kalau lo mau tambahin badge, quotes, animasi, atau style Gen Z dikit biar lebih playful juga bisa. Mau gue bantu remix juga?
