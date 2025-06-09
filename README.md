@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Zian
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm ZIan!
 
-<!---
-Morax8/Morax8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm an Informatics student at Universitas Multimedia Nusantara (UMN)  
+💻 Passionate about web development — mainly working with **PHP Laravel**, **JavaScript**, and currently learning **React**  
+🧠 Always curious about tech, backend systems, and building useful stuff
+
+## 🔧 Tech Stack
+- 💻 PHP, Laravel, JavaScript, C(Learning)
+- 🌐 HTML, CSS, React (learning), Tailwind
+- 🛢️ MySQL, PostgreSQL
+- ⚙️ Git, GitHub, VS Code, IntelliJ IDEA
+
+## 🚀 Current Involvements
+- 🔬 **R&D Division @ HMIF** – Building web tools & doing tech research  
+- 🌐 **Website Division @ PPIF 2025** – Maintaining the event's official site  
+- 🧠 **Web Coordinator @ BYTE** – Leading web development for BYTE event
+
+## 📫 Let's Connect!
+- ✉️ Email: adityazianurrahman@gmail.com    
+- 📱 Instagram: @zian___z  
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-zianur/
+
+---
+
+Ganti `yourusername`, `yourdomain.com`, dan yang lain sesuai profil lo.  
+Kalau lo mau tambahin badge, quotes, animasi, atau style Gen Z dikit biar lebih playful juga bisa. Mau gue bantu remix juga?
