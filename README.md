@@ -9,6 +9,7 @@ Currently building real-time applications and researching website security
 - **Backend & Databases:** PHP (Laravel), Node.js, Express.js, MySQL, Socket.io, Inertia.js
 - **AI & Data Science:** Python, scikit-learn, Pandas, Machine Learning, Deep Learning, Flask
 - **Infrastructure & Tools:** Git, VPS Deploy, Vercel, Kali Linux, Docker
+- **Mobile Apps Development:** Kotlin, React Native
 
 ## Current Involvements & Projects
 - **Head of Research & Development (R&D) @ HMIF XVI UMN** (Nov 2025 – Present) - Leading a technical team of 5 to design and develop digital solutions, owning the full product lifecycle of student-facing applications.
